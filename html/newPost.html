@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Create new post</title>
+    <link href="../css/news.css" rel="stylesheet" >
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400&display=swap" rel="stylesheet">
+</head>
+<body>
+<div class="header">
+    <a href="/NewsSite/html/news.html?">
+        <div class="logo" ></div>
+    </a>
+    <div class="search">
+        <form>
+            <label>
+                <input type="text" placeholder="Поиск...">
+            </label>
+            <button type="submit"></button>
+        </form>
+    </div>
+    <div class="newPost">
+        <button type="button"></button>
+    </div>
+    <div class="accountPhoto"></div>
+</div>
+<div class="writePost">
+    <form class="decor">
+        <div class="form-left-decoration"></div>
+        <div class="form-right-decoration"></div>
+        <div class="circle"></div>
+        <div class="form-inner">
+            <h3>Добавить новую стаью</h3>
+            <input id="textTitle" type="text" placeholder="Заголовок">
+            <textarea id="textContent" placeholder="Текст статьи..." rows="10"></textarea>
+            <input type="submit" value="Отправить" name="submit">
+        </div>
+    </form>
+</div>
+
+
+<script src="../js/newPost.js"></script>
+</body>
+</html>

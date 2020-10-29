@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>News</title>
+    <link href="../css/news.css" rel="stylesheet" >
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<div class="header">
+    <a href="/NewsSite/html/news.html?">
+        <div class="logo" ></div>
+    </a>
+    <div class="search">
+        <form>
+            <label>
+                <input type="text" placeholder="Поиск...">
+            </label>
+            <button type="submit"></button>
+        </form>
+    </div>
+    <div class="newPost">
+        <button type="button" onclick="location.href = '/NewsSite/html/newPost.html?'" ></button>
+    </div>
+    <div class="accountPhoto"></div>
+</div>
+
+<div class="main">
+    <div class="empty"> </div>
+    <div class="newsSection">
+        <div class="blockNews">
+            <div class="newsPage">
+                <div class="newsHeader">
+                    <div class="newsLogo"></div>
+                    <div class="headerText">
+                        <h1>У Windows з’явилося нове меню «Пуск»</h1>
+                    </div>
+                </div>
+                <div class="newsText">
+                    <p>В ОС Windows додали оновлене меню «Пуск» і браузер Edge. Про це повідомляється на сторінці підтримки користувачів на сайті Microsoft .</p>
+                    <p>В актуальному оновленні меню «Пуск» позбавили від яскравих анімацій при наведенні курсору на елементи інтерфейсу. Також плитки, на яких знаходяться ярлики для швидкого запуску додатків і сервісів, отримали напівпрозору підкладку. За словами представників компанії, це зроблено з метою спрощення зчитування інформації на екрані. У новому апдейті елементи «Пуск» будуть адаптуватися під час доби і денну / нічну теми.</p>
+                    <p>У «Параметрах» також з’явилася настройка відображення частоти картинки, її можна змінити під конкретний монітор. «Більш висока частота оновлення забезпечує більш плавний рух візуальних елементів», – повідомляється на сторінці підтримки. У нову Windows додали змінені повідомлення, які стали більш помітні. Користувач зможе прочитати їх або закрити. Панель повідомлень тепер буде адаптуватися в залежності від сценарію використання – наприклад, офісної роботи або геймінгу</p>
+                </div>
+                <div class="readButton" data-closed="true">Читать далее...</div>
+            </div>
+        </div>
+    </div>
+    <div class="recommendation">
+        <div class="blockRecommendation" >
+            <p>Actual News</p>
+            <div id="blockR1">
+                <a href="https://internetua.com/tesla-zapustila-bolee-120-avtonomnyh-energeticseskih-setei-po-vsemu-miru" target="_blank">Tesla запустила более 120 автономных энергетических сетей по всему миру</a>
+            </div>
+            <div id="blockR2">
+                <a href="https://ua.news/ua/minyust-ssha-podal-isk-protiv-korporatsii-google-iz-za-monopolii/" target="_blank">Мін'юст США подав позов проти корпорації Google через монополію</a>
+            </div>
+            <div id="blockR3">
+                <a href="https://itpedia.com.ua/2020/10/21/besprovodnyye-naushniki-s-shumopodavleniyem-oppo-enco-x-novoye-opredeleniye-zvuka/" target="_blank">Бездротові навушники з шумопоглинанням OPPO Enco X — нове визначення звуку</a>
+            </div>
+            <div id="blockR4">
+                <a href="https://internetua.com/opublikovany-novye-rendery-smartfona-samsung-galaxy-s21" target="_blank">Опубликованы новые рендеры смартфона Samsung Galaxy S21</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script src="../js/news.js"></script>
+</body>
+</html>
