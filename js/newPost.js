@@ -12,5 +12,4 @@ addEventListener("click", function (event){
         serv.responseType = 'json'
         serv.send(JSON.stringify(body));
     }
-
 })

@@ -25,7 +25,6 @@ document.addEventListener("click", function (event){
             button.textContent = 'Читать далее...';
             button.dataset.closed = 'true';
         }
-
     }
 })
 
