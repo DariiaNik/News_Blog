@@ -6,10 +6,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3c2d185-9c08-4af5-88ff-0c00e8286148" name="Default Changelist" comment="com">
-      <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/newPost.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/newPost.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/news.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/news.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewsSite" beforeDir="false" afterPath="$PROJECT_DIR$/../NewsSite" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SWeb-Site" beforeDir="false" afterPath="$PROJECT_DIR$/../SWeb-Site" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../site-react" beforeDir="false" afterPath="$PROJECT_DIR$/../site-react" afterDir="false" />
     </list>
@@ -51,6 +49,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -72,6 +71,7 @@
       <workItem from="1625314490476" duration="634000" />
       <workItem from="1625828165007" duration="320000" />
       <workItem from="1626164334934" duration="647000" />
+      <workItem from="1626178562906" duration="35000" />
     </task>
     <task id="LOCAL-00001" summary="Туц">
       <created>1604045938477</created>
@@ -132,23 +132,5 @@
     <MESSAGE value="Туц" />
     <MESSAGE value="com" />
     <option name="LAST_COMMIT_MESSAGE" value="com" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1604307153318">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604307153318" />
-    <state x="184" y="86" key="MergeDialog" timestamp="1604046205179">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="184" y="86" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604046205179" />
-    <state x="598" y="281" key="MultipleFileMergeDialog" timestamp="1604046205185">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="598" y="281" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604046205185" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1604046163356">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604046163356" />
   </component>
 </project>
