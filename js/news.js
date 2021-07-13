@@ -1,10 +1,10 @@
 let div = document.getElementsByClassName('blockNews')[0]
 
 function createElem(array){
-    for (let i = 0; i < array.length ; i++) {
+    for (let value of array) {
         let div2 = div.cloneNode(true);
-        div2.querySelector("h1").textContent = array[i].title;
-        div2.getElementsByClassName('newsText')[0].innerHTML = array[i].content;
+        div2.querySelector("h1").textContent = value.title;
+        div2.getElementsByClassName('newsText')[0].innerHTML = value.content;
         div.before(div2)
     }
 }
