@@ -5,11 +5,32 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3c2d185-9c08-4af5-88ff-0c00e8286148" name="Default Changelist" comment="com">
-      <change afterPath="$PROJECT_DIR$" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NewsSite" beforeDir="false" afterPath="$PROJECT_DIR$/../NewsSite" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SWeb-Site" beforeDir="false" afterPath="$PROJECT_DIR$/../SWeb-Site" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../site-react" beforeDir="false" afterPath="$PROJECT_DIR$/../site-react" afterDir="false" />
+    <list default="true" id="c3c2d185-9c08-4af5-88ff-0c00e8286148" name="Default Changelist" comment="Refsctor,Local">
+      <change afterPath="$PROJECT_DIR$/html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/news.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/NewsSite.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NewsSite.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/news.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/newPost.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/new-post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/news.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/newPost.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/new-post.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/news.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-api/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-api/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-api/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-api/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-api/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-api/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-api/news.data.mv.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-api/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-api/src/main/java/com/example/newsapi/Article.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-api/src/main/java/com/example/newsapi/NewsApi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-api/src/main/java/com/example/newsapi/NewsApiApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-api/src/main/java/com/example/newsapi/NewsRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news-api/src/main/resources/application.properties" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +55,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1jB8FQvb1gs6jrfXsD39rHbtD82" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -46,11 +75,19 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Pet Projects" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -71,7 +108,8 @@
       <workItem from="1625314490476" duration="634000" />
       <workItem from="1625828165007" duration="320000" />
       <workItem from="1626164334934" duration="647000" />
-      <workItem from="1626178562906" duration="35000" />
+      <workItem from="1626178562906" duration="298000" />
+      <workItem from="1626278780544" duration="6670000" />
     </task>
     <task id="LOCAL-00001" summary="Туц">
       <created>1604045938477</created>
@@ -87,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604046004725</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="test">
+      <created>1626178635056</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1626178635056</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,8 +174,13 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$/news-site" />
+    </ignored-roots>
     <MESSAGE value="Туц" />
     <MESSAGE value="com" />
-    <option name="LAST_COMMIT_MESSAGE" value="com" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
 </project>
