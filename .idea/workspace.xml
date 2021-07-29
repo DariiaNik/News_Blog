@@ -1,36 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand />
     <select />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3c2d185-9c08-4af5-88ff-0c00e8286148" name="Default Changelist" comment="Refsctor,Local">
-      <change afterPath="$PROJECT_DIR$/html/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/news.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/NewsSite.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NewsSite.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/news.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/newPost.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/new-post.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/news.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/newPost.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/new-post.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/news.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news-api/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news-api/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news-api/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news-api/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news-api/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news-api/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news-api/news.data.mv.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news-api/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news-api/src/main/java/com/example/newsapi/Article.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news-api/src/main/java/com/example/newsapi/NewsApi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news-api/src/main/java/com/example/newsapi/NewsApiApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news-api/src/main/java/com/example/newsapi/NewsRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/news-api/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/news.dat" beforeDir="false" afterPath="$PROJECT_DIR$/server/news.dat" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +62,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
@@ -110,6 +97,9 @@
       <workItem from="1626164334934" duration="647000" />
       <workItem from="1626178562906" duration="298000" />
       <workItem from="1626278780544" duration="6670000" />
+      <workItem from="1627542068086" duration="2962000" />
+      <workItem from="1627545075890" duration="855000" />
+      <workItem from="1627545948871" duration="325000" />
     </task>
     <task id="LOCAL-00001" summary="Туц">
       <created>1604045938477</created>

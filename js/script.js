@@ -4,14 +4,14 @@ function createArticles(array) {
     for (let value of array) {
         let cloned = origin.cloneNode(true);
         cloned.querySelector("h1").textContent = value.title;
-        cloned.getElementsByClassName('news-text')[0].innerHTML = value.content;
+        cloned.querySelector('.news-text').innerHTML = value.content;
         origin.before(cloned)
     }
 }
 
-let readButton = origin.querySelector('.read-button');
+let newsSection = document.querySelector('.news-section');
 
-readButton.addEventListener("click", function (event) {
+newsSection.addEventListener("click", function (event) {
     let button = event.target;
     let news = button.previousElementSibling
     if (button.dataset.closed === 'true') {
@@ -33,8 +33,5 @@ request.send();
 
 request.onload = function () {
     let response = request.response;
-    console.log(response)
-    console.log(typeof response)
-    console.log(response.articles[0].title)
     createArticles(response.articles)
 }

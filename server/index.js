@@ -23,8 +23,6 @@ app.get('/news', function (req, res) {
 })
 
 app.post('/news', function (req, res) {
-    console.log(req.body.title);
-    console.log(req.body.content);
     data.insert(req.body)
     res.send("")
 })
