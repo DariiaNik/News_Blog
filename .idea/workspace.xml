@@ -8,11 +8,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3c2d185-9c08-4af5-88ff-0c00e8286148" name="Default Changelist" comment="Refsctor,Local">
-      <change afterPath="$PROJECT_DIR$/server/package-lock.json" afterDir="false" />
+    <list default="true" id="c3c2d185-9c08-4af5-88ff-0c00e8286148" name="Default Changelist" comment="Bug fix">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/new-post.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/new-post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/new-post.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/new-post.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/news.dat" beforeDir="false" afterPath="$PROJECT_DIR$/server/news.dat" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +75,11 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\WebStorm projects\Pet Projects\News_Blog" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\WebStorm projects\Pet Projects\News_Blog\src" />
       <recent name="C:\Pet Projects" />
     </key>
   </component>
@@ -99,7 +106,9 @@
       <workItem from="1626278780544" duration="6670000" />
       <workItem from="1627542068086" duration="2962000" />
       <workItem from="1627545075890" duration="855000" />
-      <workItem from="1627545948871" duration="325000" />
+      <workItem from="1627545948871" duration="643000" />
+      <workItem from="1627546611328" duration="223000" />
+      <workItem from="1628277790277" duration="1084000" />
     </task>
     <task id="LOCAL-00001" summary="Туц">
       <created>1604045938477</created>
@@ -122,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626178635056</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Bug fix">
+      <created>1627546395945</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1627546395945</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,6 +187,7 @@
     <MESSAGE value="Туц" />
     <MESSAGE value="com" />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="Bug fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bug fix" />
   </component>
 </project>
